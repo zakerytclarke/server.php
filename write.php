@@ -1,5 +1,7 @@
 <?php
-if($_POST['password']=="password1234"){
+$password="password1234";
+
+if($_POST['password']==$password){
   $file=$_POST['file'];
 if($_POST['state']=="load"){
   $file=str_replace("/","%2F",$file);
