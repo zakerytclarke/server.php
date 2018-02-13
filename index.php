@@ -39,8 +39,8 @@ CHANGELOG:
 @readfile("changelog.txt")
 ?>
 </textarea>
-<a href="https://zakerytclarke.github.io/server.php">
-https://zakerytclarke.github.io/server.php
+<a href="https://github.com/zakerytclarke/server.php/">
+https://github.com/zakerytclarke/server.php/
 </a>
 <script>
 function about(){
