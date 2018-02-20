@@ -1,5 +1,5 @@
 # server.php
-MIT LICENSE 2018
+MIT LICENSE 2018<br>
 A simple file editor for webservers
 
 # Installation
